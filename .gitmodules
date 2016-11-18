@@ -1,0 +1,3 @@
+[submodule "3rdparty/qeventdispatcher_epoll"]
+	path = 3rdparty/qeventdispatcher_epoll
+	url = https://github.com/connectedtable/qeventdispatcher_epoll.git
